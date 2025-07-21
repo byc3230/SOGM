@@ -3,7 +3,7 @@ SOGM Project
 
 [구현제안서]
 
-One-Stop End to End Automation UAT Solution
+One-Stop End to End Automation UAT Solution (OSEAUS)
 
 [플랫폼 구성]
 
@@ -15,11 +15,13 @@ https://v0-one-stop-automation-solution.vercel.app/
 
 [PoC  URL]
 
-https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI?
+https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI
 
-![image.png](attachment:5585d756-b91d-4d9d-8ece-f3d99406bbaf:image.png)
+![UI 미리보기](./assets/poc1.png)
 
-![image.png](attachment:04127822-cf5e-4d7c-b27c-35035e8d705a:image.png)
+![UI 미리보기](./assets/poc2.png)
+
+![UI 미리보기](./assets/poc3.png)
 
 결과 SnapShot
 
