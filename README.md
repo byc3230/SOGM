@@ -30,6 +30,8 @@ One-Stop End to End Automation UAT Solution (OSEAUS)
 
 [데모 사이트(Mock) URL]
 
+웹테스트 선택 -> url 입력 -> 테스트 진행 결과 -> 대시보드 리포팅 확인
+
 https://v0-one-stop-automation-solution.vercel.app/
 
 ![UI 미리보기](./assets/demo1.png)
