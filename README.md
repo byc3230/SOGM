@@ -1,6 +1,6 @@
 # SOGM Project
 
-## 📄 기술명: One-Stop End to End Automation UAT Solution (OSEAUS)
+## 기술명: One-Stop End to End Automation UAT Solution (OSEAUS)
 
 ---
 
