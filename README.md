@@ -19,7 +19,7 @@ https://v0-one-stop-automation-solution.vercel.app/
 
 ![UI 미리보기](./assets/demo3.png)
 
-![UI 미리보기](./assets/demo3.png)
+![UI 미리보기](./assets/demo4.png)
 
 [PoC 사이트 URL]
 
