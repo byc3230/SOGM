@@ -9,11 +9,19 @@ One-Stop End to End Automation UAT Solution (OSEAUS)
 
 ![UI 미리보기](./assets/platform_stack.png)
 
-[Mock 사이트 URL]
+[데모 사이트(Mock) URL]
 
 https://v0-one-stop-automation-solution.vercel.app/
 
-[PoC  URL]
+![UI 미리보기](./assets/demo1.png)
+
+![UI 미리보기](./assets/demo2.png)
+
+![UI 미리보기](./assets/demo3.png)
+
+![UI 미리보기](./assets/demo3.png)
+
+[PoC 사이트 URL]
 
 https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI
 
