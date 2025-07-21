@@ -5,6 +5,10 @@ SOGM Project
 
 One-Stop End to End Automation UAT Solution
 
+[플랫폼 구성]
+
+![UI 미리보기](./assets/platform_stackpng)
+
 [Mock 사이트 URL]
 
 https://v0-one-stop-automation-solution.vercel.app/
