@@ -7,7 +7,7 @@ One-Stop End to End Automation UAT Solution
 
 [플랫폼 구성]
 
-![UI 미리보기](./assets/platform_stackpng)
+![UI 미리보기](./assets/platform_stack.png)
 
 [Mock 사이트 URL]
 
