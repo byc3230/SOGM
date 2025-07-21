@@ -44,6 +44,8 @@ https://v0-one-stop-automation-solution.vercel.app/
 
 [PoC 사이트 URL]
 
+url 입력 -> 프롬프트 추가 -> LLM -> 테스트 케이스 생성, playwright test 스크립트 생성
+
 https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI
 
 ![UI 미리보기](./assets/poc1.png)
@@ -56,12 +58,12 @@ https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI
 
 https://partyrock.aws/u/byc3230/_M2fzRJ5l/WebTest-AI/snapshot/s9vuAzqo1
 
-[PoC] 
+[연구 진행 시나리오] 
 
 시나리오 1 - UAT Full Test Case  (시스템 오픈전)
 
-- URL -> 정보 받고 -> 스크립트 실행 -> 화면 이미지 -> chatgpt 넣고 -> 웹 경우 playwright 스크립트 생성, App 일 경우 appium 스크립트 생성 -> 실행-> 결과 리포트 도출
+- URL -> 정보 받고 -> 스크립트 실행 -> 화면 이미지 -> LMM -> 웹 경우 playwright 스크립트 생성, App 일 경우 appium 스크립트 생성 -> 실행-> 결과 리포트 도출
 
 시나리오 2 - SR (Service Request) Test Case (변경된 웹페이지 및 연관된 페이지만 테스트 진행하는 case)
 
-- 이미지 (변경 전, 변경 후)와 코드(변경 전, 변경 후)를 입력받아 -> chatgpt 넣고 -> 웹 경우 playwright 스크립트 생성, App 일 경우 appium 스크립트 생성 -> 실행-> 결과 리포트 도출
+- 이미지 (변경 전, 변경 후)와 코드(변경 전, 변경 후)를 입력받아 -> LMM -> 웹 경우 playwright 스크립트 생성, App 일 경우 appium 스크립트 생성 -> 실행-> 결과 리포트 도출
