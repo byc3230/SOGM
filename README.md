@@ -83,17 +83,7 @@
 
 ### 시나리오 1: **UAT Full Test Case** (시스템 오픈 전)
 
-<img src="https://github.com/byc3230/SOGM/blob/main/assets/sin1.svg?raw=true" style="width:400px;"/>
-**절차:**
-
-1. URL 입력
-2. 초기 페이지 정보 수집
-3. 전체 스크립트 생성
-4. 화면 이미지 생성
-5. 멀티모달 LLM 처리
-6. Web → Playwright, App → Appium 스크립트 자동 생성
-7. 테스트 실행
-8. 결과 리포트 도출
+<img src="https://github.com/byc3230/SOGM/blob/main/assets/sin1.png?raw=true" style="width:400px;"/>
 
 ---
 
@@ -102,11 +92,3 @@
 **(변경된 웹페이지 및 연관된 페이지만 테스트)**
 
 <img src="https://github.com/byc3230/SOGM/blob/main/assets/sin2.png?raw=true" style="width:400px;"/>
-
-**절차:**
-
-1. 변경 전/후 이미지 및 코드 입력
-2. 멀티모달 LLM 처리
-3. Web → Playwright, App → Appium 스크립트 자동 생성
-4. 테스트 실행
-5. 결과 리포트 도출
