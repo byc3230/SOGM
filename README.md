@@ -101,6 +101,8 @@
 
 **(변경된 웹페이지 및 연관된 페이지만 테스트)**
 
+<img src="https://github.com/byc3230/SOGM/blob/main/assets/sin2.png?raw=true" style="width:400px;"/>
+
 **절차:**
 
 1. 변경 전/후 이미지 및 코드 입력
