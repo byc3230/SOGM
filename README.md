@@ -83,6 +83,8 @@
 
 ### 시나리오 1: **UAT Full Test Case** (시스템 오픈 전)
 
+![sin1](./assets/sin1.svg)
+
 **절차:**
 
 1. URL 입력
